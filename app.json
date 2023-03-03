@@ -1,21 +1,23 @@
 {
   "expo": {
-    "name": "CDC_AC",
-    "slug": "CDC_AC",
+    "name": "CDCAC",
+    "slug": "comcdcac",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
+      "image": "./assets/splash.jpg",
+      "resizeMode": "cover",
       "backgroundColor": "#ffffff"
     },
     "assetBundlePatterns": [
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "requireFullScreen": true,
+      "bundleIdentifier": "com.cdcac"
     },
     "android": {
       "adaptiveIcon": {
