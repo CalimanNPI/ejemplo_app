@@ -17,19 +17,19 @@ const { width, height } = Dimensions.get("window");
 const slides = [
   {
     id: "1",
-    image: require("../../assets/Onboarding/3.png"),
+    image: require("../../assets/onboarding/3.png"),
     title: "Publicidad",
     subtitle: "Podras ver la información más reciente del CDCAC",
   },
   {
     id: "2",
-    image: require("../../assets/Onboarding/2.png"),
+    image: require("../../assets/onboarding/2.png"),
     title: "Actividades deportivas",
     subtitle: "Podras buscar las actividades deportivas CDCAC ofrece",
   },
   {
     id: "3",
-    image: require("../../assets/Onboarding/1.png"),
+    image: require("../../assets/onboarding/1.png"),
     title: "Credencial virtual",
     subtitle: "Podras ver tu credencia virtual",
   },

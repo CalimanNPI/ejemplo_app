@@ -22,7 +22,7 @@ const HomeScreen = () => {
           <View style={styles.contentHeader}>
           <Image
               style={styles.profilePhoto}
-              source={require("../../assets/iconos/icono.png")}
+              source={require("../../assets/iconos/icono_b.png")}
             />
           </View>
 
